@@ -22,4 +22,3 @@ Here are some ideas to get you started:
 - 💞️ I’m looking to collaborate on Anything to further my skills and growth as a developer!
 - ⚡ Fun fact: I like playing instruments and learning new things!
 - 📫 How to reach me ... <a href="https://www.linkedin.com/in/arisonarias/" > LinkedIn </a> 
-- <h1 style="color:green; font-size:18px; border:2px solid red"> heading </h1>
