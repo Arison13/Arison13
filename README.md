@@ -1,4 +1,5 @@
-### Hi there 👋
+## Full-Stack Web Developer
+### Hi I'm Arison 👋
 
 <!--
 **Arison13/Arison13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+👀 I’m interested in Learning new technologies, video games, and sports
+🌱 I’m currently focusing on Front-End web dev, in particular using React
+💞️ I’m looking to collaborate on Anything to further my skills and growth as a developer!
+ ⚡ Fun fact: I like playing instruments and learning new things!
+📫 How to reach me ... `<a> MY LINK </a>`
