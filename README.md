@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 
 
-👀 I’m interested in Learning new technologies, video games, and sports
-🌱 I’m currently focusing on Front-End web dev, in particular using React
-💞️ I’m looking to collaborate on Anything to further my skills and growth as a developer!
- ⚡ Fun fact: I like playing instruments and learning new things!
-📫 How to reach me ... `<a> MY LINK </a>`
+- 👀 I’m interested in Learning new technologies, video games, and sports
+- 🌱 I’m currently focusing on Front-End web dev, in particular using React
+- 💞️ I’m looking to collaborate on Anything to further my skills and growth as a developer!
+- ⚡ Fun fact: I like playing instruments and learning new things!
+- 📫 How to reach me ...
