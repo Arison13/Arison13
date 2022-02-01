@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently focusing on Front-End web dev, in particular using React
 - 💞️ I’m looking to collaborate on Anything to further my skills and growth as a developer!
 - ⚡ Fun fact: I like playing instruments and learning new things!
-- 📫 How to reach me ... <a href="https://www.linkedin.com/in/arisonarias/" style={border: "1px, solid, red"}> LinkedIn </a> 
+- 📫 How to reach me ... <a href="https://www.linkedin.com/in/arisonarias/" style="color:green; font-size:18px; border:2px solid red"> LinkedIn </a> 
