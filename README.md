@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working at Thryv Inc. And getting to work on really interesting projects with really devs and teammates
+- 🔭 I’m currently working at Thryv Inc. And getting to work on really interesting projects with really amazing devs and coworkers
 - 👀 I’m interested in Learning new technologies, video games, and sports
 - 🌱 I’m currently focusing on Front-End tech, in particular using React
 - 💞️ I’m looking to collaborate on Anything to further my skills and growth as a developer!
